@@ -12,9 +12,9 @@
   
 - Testing stage<br>
 
-[Project Board](https://github.com/Aviya-B/Final-Project/projects/1)<br>
+### [Project Board](https://github.com/Aviya-B/Final-Project/projects/1)<br>
  
-[Inception](https://github.com/Aviya-B/Final-Project/wiki/Inception)<br>
+### [Inception](https://github.com/Aviya-B/Final-Project/wiki/Inception)<br>
 
-[Project dairy](https://github.com/Aviya-B/Final-Project/wiki/Project-Diary)<br>
+### [Project dairy](https://github.com/Aviya-B/Final-Project/wiki/Project-Diary)<br>
 
