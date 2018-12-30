@@ -3,14 +3,14 @@
 
 
 ### General milestones:
-- Preparation stage:
+- Preparation stage:<br>
 
    Learning disorders in electrical devices (eg Bluetooth, Wi-Fi)
-- Development stage
+- Development stage<br>
 
   Simulation of Wi-Fi interference by Matlab simulation system
   
-- Testing stage
+- Testing stage<br>
 [Project Board](https://github.com/Aviya-B/Final-Project/projects/1)<br>
  
 [Inception](https://github.com/Aviya-B/Final-Project/wiki/Inception)<br>
