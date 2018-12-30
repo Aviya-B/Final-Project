@@ -1,6 +1,7 @@
 # Final-Project
 ## New Lab tools for Communication Interference Simulation
-
+In order to discover new means of overcoming communication interference, we will development new tools capable of quantifying and evaluating communication interference.  <br>
+The development of new devices (e.g., routers) based on these tools and all the communication interference will take into account.
 
 ### General milestones:
 - Preparation stage:<br>
